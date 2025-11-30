@@ -9,5 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "config": "^4.1.1",
+    "cookie-parser": "^1.4.7",
+    "debug": "^4.4.3"
+  }
 }
